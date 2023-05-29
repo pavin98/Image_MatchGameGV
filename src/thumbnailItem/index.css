@@ -1,0 +1,17 @@
+.thumbnail-card {
+  height: 150px;
+  width: 150px;
+}
+.thumbnail-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.thumbnail-image {
+  height: 100%;
+  width: 100%;
+}
+ul {
+  list-style: none;
+}

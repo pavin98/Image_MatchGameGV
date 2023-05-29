@@ -1,0 +1,16 @@
+.tabItemBtn {
+  color: #ffffff;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.is-selected {
+  color: #fec653;
+}
+hr {
+  border: 2px solid #fec653;
+}
+li {
+  list-style: none;
+}
